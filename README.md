@@ -2,4 +2,4 @@
 <p>Blog de notícias de tecnologia.</p>
 <b>*Não Responsivo</b><br>
 <br>
-Link: https://edilsonjrcode.github.io/Music-Space/
+Link: https://edilsonjrcode.github.io/Projeto-Blog-TecBlog/
